@@ -2,4 +2,7 @@
 A repository for learning Github
 
 # repo on my machine
-# wowee
+
+Part of Applied Data Science Course
+
+
